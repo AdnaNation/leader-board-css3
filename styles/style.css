@@ -116,6 +116,7 @@ top blogs styles
   border-radius: 14.691px;
   background-color:  var(--ffe-4-e-8, #FFE4E8);
   text-align: center;
+  padding-top: 5px;
 }
 .fa-star{
   font-size: 12px;
